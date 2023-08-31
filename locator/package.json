@@ -1,0 +1,16 @@
+{
+  "name": "locator",
+  "version": "1.0.0",
+  "description": "Find the country of origin depending on type of request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ip",
+    "geo",
+    "country"
+  ],
+  "author": "Daniel Makokha",
+  "license": "ISC"
+}
